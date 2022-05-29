@@ -74,4 +74,5 @@ fabric.properties
 /dataset/
 /data/
 /models/
-/d2l-zh-master/
+/submission.csv
+/test1.py
